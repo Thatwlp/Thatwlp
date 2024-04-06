@@ -1,7 +1,7 @@
 <div align="justify">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lighten001/lighten001/main/gifos-black.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lighten001/lighten001/main/gifos-black.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lighten001/lighten001/main/gifos-light.gif">
     <img alt="GIFOS" src="https://raw.githubusercontent.com/lighten001/lighten001/main/gifos-black.gif">
 </picture>
 
